@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/SpaceStation09//my-notes"/>
-    <img src="https://badgen.net/badge/last-commit/2024-10-28 08:54:11"/>
+    <img src="https://badgen.net/badge/last-commit/2024-11-01 10:42:46"/>
     <img src="https://badgen.net/github/stars/SpaceStation09//my-notes"/>
     <img src="https://badgen.net/github/watchers/SpaceStation09//my-notes"/>
 </p>
@@ -19,8 +19,9 @@
 </details>
             
 <details open>
-<summary>ZK	[1篇]</summary>
+<summary>ZK	[2篇]</summary>
 
+- 2024-11-01 [零知识证明：ZK-Intro & Schnorr 协议](https://github.com/SpaceStation09/my-notes/issues/4) 
 - 2024-10-28 [零知识证明：R1CS 与 QAP](https://github.com/SpaceStation09/my-notes/issues/3) 
 
 
