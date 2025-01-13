@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/SpaceStation09//my-notes"/>
-    <img src="https://badgen.net/badge/last-commit/2024-12-18 08:52:32"/>
+    <img src="https://badgen.net/badge/last-commit/2025-01-13 07:10:14"/>
     <img src="https://badgen.net/github/stars/SpaceStation09//my-notes"/>
     <img src="https://badgen.net/github/watchers/SpaceStation09//my-notes"/>
 </p>
@@ -14,6 +14,14 @@
 <summary>Blog	[1篇]</summary>
 
 - 2024-09-20 [使用Github Issues 与 Git Action 写博客 - Hello, World!](https://github.com/SpaceStation09/my-notes/issues/1) 
+
+
+</details>
+            
+<details open>
+<summary>Development	[1篇]</summary>
+
+- 2025-01-13 [【开发小记】create2的使用方式](https://github.com/SpaceStation09/my-notes/issues/6) 
 
 
 </details>
