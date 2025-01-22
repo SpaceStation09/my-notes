@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/SpaceStation09//my-notes"/>
-    <img src="https://badgen.net/badge/last-commit/2025-01-13 07:10:14"/>
+    <img src="https://badgen.net/badge/last-commit/2025-01-22 13:14:43"/>
     <img src="https://badgen.net/github/stars/SpaceStation09//my-notes"/>
     <img src="https://badgen.net/github/watchers/SpaceStation09//my-notes"/>
 </p>
