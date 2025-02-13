@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/SpaceStation09//my-notes"/>
-    <img src="https://badgen.net/badge/last-commit/2025-01-22 13:45:09"/>
+    <img src="https://badgen.net/badge/last-commit/2025-02-13 10:13:32"/>
     <img src="https://badgen.net/github/stars/SpaceStation09//my-notes"/>
     <img src="https://badgen.net/github/watchers/SpaceStation09//my-notes"/>
 </p>
@@ -30,6 +30,14 @@
 <summary>Solana	[1篇]</summary>
 
 - 2024-12-18 [Solana 开发 【1】 ：基础概念解析](https://github.com/SpaceStation09/my-notes/issues/5) 
+
+
+</details>
+            
+<details open>
+<summary>Tidbits	[1篇]</summary>
+
+- 2025-02-13 [以太坊无密钥执行 - Nick的方法](https://github.com/SpaceStation09/my-notes/issues/8) 
 
 
 </details>
